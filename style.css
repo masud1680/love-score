@@ -2,13 +2,14 @@ body{
 
     size:100vh;
     background-color: #243750;
-        /* display:flex; */
-    justify-content:center;
-    align-items:center;
+        /* display:flex;
+    justify-content:center; */
+    /* align-content:center; */
 }
 
 .main-body{
-    padding: 120px 120px;
+    padding:  80px;
+   
 
 }
 .main-love{
